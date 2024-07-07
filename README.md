@@ -52,7 +52,7 @@ npm test -- --coverage
 
 # test coverage Report path:
 
-ny-times/coverage/lcov-report/index.html
+react-news-articles-apps/coverage/lcov-report/index.html
 
 # build the applicatio
 
