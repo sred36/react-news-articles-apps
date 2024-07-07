@@ -17,10 +17,11 @@ This project is a simple React application that fetches articles and displays da
 
     Node.js (version >= 12.0.0)
     npm (version >= 6.0.0)
+    
 # Installation
-    Clone the repository and install dependencies:
+    Clone the repository(https://git@github.com:sred36/react-news-articles-apps.git) and install dependencies:
 
-    cd sample-react-app
+    cd react-news-articles-apps
 
 # Install dependencies using npm
 
