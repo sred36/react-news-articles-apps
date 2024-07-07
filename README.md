@@ -50,6 +50,8 @@ npm test
 
 npm test -- --coverage
 
+![image](https://github.com/sred36/react-news-articles-apps/assets/35680138/737b0292-2658-453a-a549-5628198ec4c7)
+
 # test coverage Report path:
 
 react-news-articles-apps/coverage/lcov-report/index.html
