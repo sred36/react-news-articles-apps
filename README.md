@@ -31,7 +31,7 @@ npm install
 
 yarn install
 
-Running the App
+# Running the App
 Start the development server:
 
 # Using npm
