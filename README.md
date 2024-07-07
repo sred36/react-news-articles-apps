@@ -56,6 +56,10 @@ npm test -- --coverage
 
 react-news-articles-apps/coverage/lcov-report/index.html
 
+# Run cypress 
+
+npm run cy:open
+
 # build the applicatio
 
 npm run build
