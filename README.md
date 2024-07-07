@@ -1,27 +1,26 @@
-Introduction
+# Introduction
 
 This project is a simple React application that fetches articles and displays data from an external API. It showcases basic React concepts such as components, srouting, and API integration.
 
-Features
-Fetches data from an external API (placeholder data used in this sample).
-Displays a list of items retrieved from the API.
-Allows navigation between different pages using React Router.
-Search functionality
-pagination
+# Features
+    Fetches data from an external API (placeholder data used in this sample).
+    Displays a list of items retrieved from the API.
+    Allows navigation between different pages using React Router.
+    Search functionality
+    pagination
 
-Getting Started
-Follow these instructions to get the project up and running on your local machine.
+# Getting Started
+  Follow these instructions to get the project up and running on your local machine.
 
-Prerequisites
-Make sure you have the following installed:
+# Prerequisites
+    Make sure you have the following installed:
 
-Node.js (version >= 12.0.0)
-npm (version >= 6.0.0)
+    Node.js (version >= 12.0.0)
+    npm (version >= 6.0.0)
+# Installation
+    Clone the repository and install dependencies:
 
-Installation
-Clone the repository and install dependencies:
-
-cd sample-react-app
+    cd sample-react-app
 
 # Install dependencies using npm
 
