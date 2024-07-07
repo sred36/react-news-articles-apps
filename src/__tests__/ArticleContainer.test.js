@@ -77,6 +77,4 @@ describe("ArticleContainer Component", () => {
       expect(screen.getByText("Article 2")).toBeInTheDocument();
     });
   });
-
-  // Add more test cases as needed
 });

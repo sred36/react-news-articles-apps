@@ -7,8 +7,6 @@ const ArticleDetails = () => {
   const navigate = useNavigate();
   const { id } = useParams();
   const { selectedArticle } = useContext(ArticleContext);
-  console.log(id);
-  console.log(selectedArticle);
 
   if (!selectedArticle || selectedArticle.id !== parseInt(id)) {
     return <div>Article not found</div>;
@@ -17,22 +15,24 @@ const ArticleDetails = () => {
   const mediaList = selectedArticle.media || [];
 
   return (
-    <div className="article-details">
-      <button className="article-back-btn" onClick={() => navigate(-1)}>
-        Back
-      </button>
-      <div className="article-date">
-        Published Date: {selectedArticle.published_date}
+    <>
+      <div className="article-details">
+        <button className="article-back-btn" onClick={() => navigate(-1)}>
+          Back
+        </button>
+        <div className="article-date">
+          Published Date: {selectedArticle.published_date}
+        </div>
+        {mediaList.length > 0 && (
+          <ArticleTile
+            article={selectedArticle}
+            mediaList={mediaList}
+            isDetails={true}
+          />
+        )}
+        <div className="article-keywords">{selectedArticle.adx_keywords}</div>
       </div>
-      {mediaList.length > 0 && (
-        <ArticleTile
-          article={selectedArticle}
-          mediaList={mediaList}
-          isDetails={true}
-        />
-      )}
-      <div className="article-keywords">{selectedArticle.adx_keywords}</div>
-    </div>
+    </>
   );
 };
 

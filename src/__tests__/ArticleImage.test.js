@@ -9,13 +9,11 @@ describe("ArticleImage Component", () => {
   ];
 
   it("renders images correctly", async () => {
-    render(<ArticleImage title="Test Article" mediaList={mockMediaList} />);
+    render(<ArticleImage mediaList={mockMediaList} />);
 
     // Use waitFor to wait for images to appear in the DOM
     await waitFor(() => {
       expect(screen.getAllByRole("img")).toHaveLength(2);
     });
   });
-
-  // Add more test cases as needed
 });

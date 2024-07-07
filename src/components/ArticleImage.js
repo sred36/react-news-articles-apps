@@ -1,17 +1,16 @@
 import { v4 as uuidv4 } from "uuid";
 import ArtileImageElement from "./ArticleImageElement";
 
-const ArticleImage = ({ title, mediaList, isDetails }) => {
+const ArticleImage = ({ mediaList, isDetails }) => {
   return (
     <div className="">
       {mediaList.map((mediaItem, mediaIndex) => {
         let mediaImageLIst = mediaItem["media-metadata"];
-        console.log("mediaImageLIst", mediaImageLIst);
         const uniqueId = uuidv4();
         return (
           <ArtileImageElement
             mediaImageLIst={mediaImageLIst}
-            title={title}
+            title={mediaItem.caption}
             uniqueId={uniqueId}
             isDetails={isDetails}
           />

@@ -1,0 +1,1152 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/385e07c9-4f4e-5ddf-bc6f-5bd97f7d3950",
+      "url": "https://www.nytimes.com/2024/06/30/us/politics/biden-debate-anxious-democrats.html",
+      "id": 100000009548133,
+      "asset_id": 100000009548133,
+      "source": "New York Times",
+      "published_date": "2024-06-30",
+      "updated": "2024-07-01 10:29:15",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Debates (Political);Presidential Election of 2024;Polls and Public Opinion;United States Politics and Government;Biden, Joseph R Jr;Democratic Party",
+      "column": null,
+      "byline": "By Katie Rogers and Peter Baker",
+      "type": "Article",
+      "title": "Biden’s Family Tells Him to Keep Fighting as They Huddle at Camp David",
+      "abstract": "President Biden is trying to figure out how to tamp down Democratic anxiety after last week’s disastrous debate performance.",
+      "des_facet": [
+        "Debates (Political)",
+        "Presidential Election of 2024",
+        "Polls and Public Opinion",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Biden, Joseph R Jr"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden on Saturday with the first lady, Jill Biden, and his granddaughters Finnegan and Natalie Biden.",
+          "copyright": "Haiyun Jiang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/30dc-biden1-cqjf/30dc-biden1-cqjf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/30dc-biden1-cqjf/30dc-biden1-cqjf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/30dc-biden1-cqjf/30dc-biden1-cqjf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2c887175-02ae-58a2-9874-6a5f35b72a82",
+      "url": "https://www.nytimes.com/2024/06/30/us/politics/biden-campaign-debate-scramble.html",
+      "id": 100000009547350,
+      "asset_id": 100000009547350,
+      "source": "New York Times",
+      "published_date": "2024-06-30",
+      "updated": "2024-07-01 00:10:00",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Debates (Political);Biden, Joseph R Jr;Democratic Party",
+      "column": null,
+      "byline": "By Lisa Lerer, Shane Goldmacher and Katie Rogers",
+      "type": "Article",
+      "title": "48 Hours to Fix a 90-Minute Mess: Inside the Biden Camp’s Post-Debate Frenzy",
+      "abstract": "With countless calls and a rush of campaign events, the president’s team began a damage-control effort to pressure and plead with anxious Democratic lawmakers, surrogates, activists and donors.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Debates (Political)"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Biden, Joseph R Jr"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden, with his wife, Jill, arriving in New York on Saturday for a campaign reception. His campaign has been in a battle mode to reassure donors and supporters.",
+          "copyright": "Haiyun Jiang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/30pol-inside-biden-01-qhcz/30pol-inside-biden-01-qhcz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/30pol-inside-biden-01-qhcz/30pol-inside-biden-01-qhcz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/30pol-inside-biden-01-qhcz/30pol-inside-biden-01-qhcz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/37694dbe-f424-5188-b7b6-cfd04173f20c",
+      "url": "https://www.nytimes.com/2024/07/02/business/media/chet-hanks-racist-meme.html",
+      "id": 100000009549510,
+      "asset_id": 100000009549510,
+      "source": "New York Times",
+      "published_date": "2024-07-02",
+      "updated": "2024-07-04 03:17:15",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Right-Wing Extremism and Alt-Right;Whites;Social Media;Race and Ethnicity;Anti-Semitism;Discrimination;Men and Boys;Homosexuality and Bisexuality;Hanks, Chet (1990- );Global Project Against Hate and Extremism",
+      "column": null,
+      "byline": "By Steven Lee Myers",
+      "type": "Article",
+      "title": "How Tom Hanks’s Son Spawned a Hateful Meme Online",
+      "abstract": "When Chet Hanks first used the phrase “white boy summer,” it was meant to be fun and playful, he said. Now it has been appropriated around the world by white supremacists and other hate groups.",
+      "des_facet": [
+        "Right-Wing Extremism and Alt-Right",
+        "Whites",
+        "Social Media",
+        "Race and Ethnicity",
+        "Anti-Semitism",
+        "Discrimination",
+        "Men and Boys",
+        "Homosexuality and Bisexuality"
+      ],
+      "org_facet": ["Global Project Against Hate and Extremism"],
+      "per_facet": ["Hanks, Chet (1990- )"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chet Hanks had previously faced criticism for defending his use of a common racial slur and for cultural appropriation.",
+          "copyright": "Michael Buckner/Variety, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/business/03chethanks1-print/DISINFO-HANKS-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/business/03chethanks1-print/DISINFO-HANKS-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/business/03chethanks1-print/DISINFO-HANKS-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/570da9ca-3b5a-50c0-a8ed-14819cb7b98c",
+      "url": "https://www.nytimes.com/2024/07/01/us/politics/trump-liz-cheney-treason-jail.html",
+      "id": 100000009550204,
+      "asset_id": 100000009550204,
+      "source": "New York Times",
+      "published_date": "2024-07-01",
+      "updated": "2024-07-03 12:23:28",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Social Media;Military Tribunals;United States Politics and Government;Trump, Donald J;Cheney, Liz;House Select Committee to Investigate the January 6th Attack",
+      "column": null,
+      "byline": "By Chris Cameron",
+      "type": "Article",
+      "title": "Trump Amplifies Calls to Jail Top Elected Officials, Invokes Military Tribunals",
+      "abstract": "A post that Mr. Trump circulated on Sunday called for Liz Cheney to be prosecuted by a military court reserved for enemy combatants and war criminals.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Social Media",
+        "Military Tribunals",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "House Select Committee to Investigate the January 6th Attack"
+      ],
+      "per_facet": ["Trump, Donald J", "Cheney, Liz"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Liz Cheney, former U.S. representative from Wyoming, is a critic of Mr. Trump.",
+          "copyright": "Ken Mcgagh/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/01/multimedia/01pol-trump-cheney-tribunal-1-zwfm/01pol-trump-cheney-tribunal-1-zwfm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/01/multimedia/01pol-trump-cheney-tribunal-1-zwfm/01pol-trump-cheney-tribunal-1-zwfm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/01/multimedia/01pol-trump-cheney-tribunal-1-zwfm/01pol-trump-cheney-tribunal-1-zwfm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/316d6d6f-b167-509a-8e1d-875110e6977c",
+      "url": "https://www.nytimes.com/2024/07/03/us/politics/poll-debate-biden-trump.html",
+      "id": 100000009551239,
+      "asset_id": 100000009551239,
+      "source": "New York Times",
+      "published_date": "2024-07-03",
+      "updated": "2024-07-03 22:38:27",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Polls and Public Opinion;United States Politics and Government;Presidential Election of 2024;Debates (Political);Age, Chronological;Biden, Joseph R Jr;Trump, Donald J;New York Times/Siena College Poll;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By Shane Goldmacher",
+      "type": "Article",
+      "title": "Trump Widens Lead After Biden’s Debate Debacle, Times/Siena Poll Finds",
+      "abstract": "Donald Trump is ahead of President Biden by six percentage points among likely voters in a new national survey. Overall, 74 percent of voters view Mr. Biden as too old for the job, an uptick since the debate.",
+      "des_facet": [
+        "Polls and Public Opinion",
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Debates (Political)",
+        "Age, Chronological"
+      ],
+      "org_facet": [
+        "New York Times/Siena College Poll",
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": ["Biden, Joseph R Jr", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/02/multimedia/2024-06-18-election-polling-margin-dot-chart/2024-06-18-election-polling-margin-dot-chart-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/02/multimedia/2024-06-18-election-polling-margin-dot-chart/2024-06-18-election-polling-margin-dot-chart-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/02/multimedia/2024-06-18-election-polling-margin-dot-chart/2024-06-18-election-polling-margin-dot-chart-mediumThreeByTwo440-v2.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/521234bc-b44f-5dd5-9660-d5f95b99d062",
+      "url": "https://www.nytimes.com/2024/06/28/opinion/biden-election-debate-trump.html",
+      "id": 100000009546873,
+      "asset_id": 100000009546873,
+      "source": "New York Times",
+      "published_date": "2024-06-28",
+      "updated": "2024-07-01 10:09:38",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Debates (Political);Presidential Election of 2024;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J;Democratic Party",
+      "column": null,
+      "byline": "By The Editorial Board",
+      "type": "Article",
+      "title": "To Serve His Country, President Biden Should Leave the Race",
+      "abstract": "The president’s inadequate performance in the debate made it clear he is not the man he was four years ago.",
+      "des_facet": [
+        "Debates (Political)",
+        "Presidential Election of 2024",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Biden, Joseph R Jr", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/28Biden1-tbqm/28Biden1-tbqm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/28Biden1-tbqm/28Biden1-tbqm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/28Biden1-tbqm/28Biden1-tbqm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/eaf9bafe-7188-5b9b-975f-2985d7da6e59",
+      "url": "https://www.nytimes.com/interactive/2024/weather/maps-beryl.html",
+      "id": 100000009546974,
+      "asset_id": 100000009546974,
+      "source": "New York Times",
+      "published_date": "2024-06-28",
+      "updated": "2024-07-07 11:42:56",
+      "section": "Weather",
+      "subsection": "",
+      "nytdsection": "weather",
+      "adx_keywords": "Hurricanes and Tropical Storms;Maps;Weather;Atlantic Ocean;Caribbean Area",
+      "column": null,
+      "byline": "By William B. Davis, Madison Dong, John Keefe, Judson Jones and Bea Malsky",
+      "type": "Interactive",
+      "title": "Tropical Storm Beryl Tracker",
+      "abstract": "See the likely path and wind arrival times for Beryl.",
+      "des_facet": ["Hurricanes and Tropical Storms", "Maps", "Weather"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Atlantic Ocean", "Caribbean Area"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/06/28/world/two-map-path-tracker-index/two-map-path-tracker-index-thumbStandard-v357.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/28/world/two-map-path-tracker-index/two-map-path-tracker-index-mediumThreeByTwo210-v357.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/28/world/two-map-path-tracker-index/two-map-path-tracker-index-mediumThreeByTwo440-v357.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2f1274e4-68a4-503d-ac45-eee2d725a791",
+      "url": "https://www.nytimes.com/2024/07/04/us/politics/biden-governors-health.html",
+      "id": 100000009555579,
+      "asset_id": 100000009555579,
+      "source": "New York Times",
+      "published_date": "2024-07-04",
+      "updated": "2024-07-05 09:46:43",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Debates (Political);Biden, Joseph R Jr;Green, Josh (1970- )",
+      "column": null,
+      "byline": "By Reid J. Epstein and Maggie Haberman",
+      "type": "Article",
+      "title": "Biden Tells Governors He Needs More Sleep and Less Work at Night",
+      "abstract": "The president’s opening remark to a group of key Democratic leaders — that he was in the race to stay — chilled any talk of his withdrawal, participants said.",
+      "des_facet": ["Presidential Election of 2024", "Debates (Political)"],
+      "org_facet": [],
+      "per_facet": ["Biden, Joseph R Jr", "Green, Josh (1970- )"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden said that he told his staff he needed to get more sleep.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/multimedia/04pol-live-biden-govs-ktlj/04pol-live-biden-govs-ktlj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/multimedia/04pol-live-biden-govs-ktlj/04pol-live-biden-govs-ktlj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/multimedia/04pol-live-biden-govs-ktlj/04pol-live-biden-govs-ktlj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0af3ee62-46dd-5725-86e8-530d00040052",
+      "url": "https://www.nytimes.com/2024/06/30/opinion/biden-debate-convention.html",
+      "id": 100000009547064,
+      "asset_id": 100000009547064,
+      "source": "New York Times",
+      "published_date": "2024-06-30",
+      "updated": "2024-07-04 12:51:24",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Polls and Public Opinion;Debates (Political);Presidential Election of 2020;Biden, Joseph R Jr;Newsom, Gavin;Democratic Party",
+      "column": null,
+      "byline": "By Ezra Klein",
+      "type": "Article",
+      "title": "This Isn’t All Joe Biden’s Fault",
+      "abstract": "What is the Democratic Party for if not for dealing with a situation like this?",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Polls and Public Opinion",
+        "Debates (Political)",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Biden, Joseph R Jr", "Newsom, Gavin"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photographs by Kenny Holston/The New York Times and Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/opinion/30klein/30klein-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/opinion/30klein/30klein-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/opinion/30klein/30klein-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/55c3a706-25bb-56e9-a2f7-304b0cc2753b",
+      "url": "https://www.nytimes.com/interactive/2023/07/07/well/live/sleep-better-age.html",
+      "id": 100000008975663,
+      "asset_id": 100000008975663,
+      "source": "New York Times",
+      "published_date": "2023-07-07",
+      "updated": "2023-08-29 13:31:51",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Sleep;Age, Chronological;Insomnia;Content Type: Service;vis-design;internal-sub-only-except-search",
+      "column": null,
+      "byline": "By Dani Blum",
+      "type": "Interactive",
+      "title": "Sleep Better at Every Age",
+      "abstract": "Sleep needs shift throughout the lifespan. Experts offer tips to get more rest —  no matter how old you are.",
+      "des_facet": [
+        "Sleep",
+        "Age, Chronological",
+        "Insomnia",
+        "Content Type: Service",
+        "vis-design",
+        "internal-sub-only-except-search"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Illustrations by Petra Eriksson",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/06/22/well/well-sleep-age-topper/well-sleep-age-topper-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/22/well/well-sleep-age-topper/well-sleep-age-topper-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/22/well/well-sleep-age-topper/well-sleep-age-topper-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7d1d16c9-5e54-568d-b616-0b1ff93c8a3a",
+      "url": "https://www.nytimes.com/2024/07/04/us/politics/biden-election-campaign.html",
+      "id": 100000009555478,
+      "asset_id": 100000009555478,
+      "source": "New York Times",
+      "published_date": "2024-07-04",
+      "updated": "2024-07-05 13:08:09",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Black People;Polls and Public Opinion;Voting and Voters;Presidential Election of 2024;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J;Democratic Party",
+      "column": null,
+      "byline": "By Michael D. Shear",
+      "type": "Article",
+      "title": "Biden Stumbles Over His Words as He Tries to Steady Re-Election Campaign",
+      "abstract": "The president’s appearances have come under intense scrutiny since he appeared feeble in his debate against former President Donald J. Trump.",
+      "des_facet": [
+        "Black People",
+        "Polls and Public Opinion",
+        "Voting and Voters",
+        "Presidential Election of 2024",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Biden, Joseph R Jr", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden and his top aides have said his activities in the coming days are part of a series of campaign efforts designed to prove that his debate performance was nothing more than “a bad night.”",
+          "copyright": "Eric Lee/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/multimedia/04dc-biden-jgwc/04dc-biden-jgwc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/multimedia/04dc-biden-jgwc/04dc-biden-jgwc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/multimedia/04dc-biden-jgwc/04dc-biden-jgwc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/133b49cb-1eda-5140-9951-2e819bbae60a",
+      "url": "https://www.nytimes.com/2024/07/01/opinion/steve-bannon-trump.html",
+      "id": 100000009537825,
+      "asset_id": 100000009537825,
+      "source": "New York Times",
+      "published_date": "2024-07-01",
+      "updated": "2024-07-06 15:12:24",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Right-Wing Extremism and Alt-Right;Content Type: Personal Profile;Bannon, Stephen K;Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "My Unsettling Interview With Steve Bannon",
+      "abstract": "On the eve of going to prison, populism’s grand strategist talks about what another Trump presidency would look like and the rise of MAGA-type movements around the world.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Right-Wing Extremism and Alt-Right",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Bannon, Stephen K", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/07/multimedia/01brooks-kzpb/01brooks-kzpb-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/07/multimedia/01brooks-kzpb/01brooks-kzpb-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/07/multimedia/01brooks-kzpb/01brooks-kzpb-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b5115dd9-10cf-5d88-ad4f-98f99c31b686",
+      "url": "https://www.nytimes.com/2024/07/04/us/politics/biden-donors.html",
+      "id": 100000009554876,
+      "asset_id": 100000009554876,
+      "source": "New York Times",
+      "published_date": "2024-07-04",
+      "updated": "2024-07-05 09:09:48",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Campaign Finance;Presidential Election of 2024;United States Politics and Government;Political Action Committees;Biden, Joseph R Jr;Harris, Kamala D;Democratic Party",
+      "column": null,
+      "byline": "By Kenneth P. Vogel, Theodore Schleifer and Lauren Hirsch",
+      "type": "Article",
+      "title": "Major Democratic Donors Devise Plans to Pressure Biden to Step Aside",
+      "abstract": "The president appears intent on remaining on the ballot, while wealthy donors are discussing plans to put their money elsewhere.",
+      "des_facet": [
+        "Campaign Finance",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Political Action Committees"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Biden, Joseph R Jr", "Harris, Kamala D"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A small but vocal faction of Democratic Party donors is urging President Biden to withdraw from the race, but he has said that he will not be pushed out.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/multimedia/04pol-biden-donors-biden2/04pol-biden-donors-biden2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/multimedia/04pol-biden-donors-biden2/04pol-blackwomen-biden-ender-fcpt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/04/multimedia/04pol-biden-donors-biden2/04pol-blackwomen-biden-ender-fcpt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/b7dde6a4-5592-5e31-828a-effff4b80133",
+      "url": "https://www.nytimes.com/interactive/2024/07/05/briefing/news-quiz-trump-immunity.html",
+      "id": 100000009554891,
+      "asset_id": 100000009554891,
+      "source": "New York Times",
+      "published_date": "2024-07-05",
+      "updated": "2024-07-05 05:03:31",
+      "section": "Briefing",
+      "subsection": "",
+      "nytdsection": "briefing",
+      "adx_keywords": "Content Type: Quiz;internal-truncator",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "The New York Times News Quiz, Jul. 5, 2024",
+      "abstract": "Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.",
+      "des_facet": ["Content Type: Quiz", "internal-truncator"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Tierney L. Cross for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/05/multimedia/05themorning-nl-quiz-jwfh/05themorning-nl-quiz-jwfh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/05/multimedia/05themorning-nl-quiz-jwfh/05themorning-nl-quiz-jwfh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/05/multimedia/05themorning-nl-quiz-jwfh/05themorning-nl-quiz-jwfh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e1c2636f-2aaf-5d37-b9ff-ee4fb8eacc56",
+      "url": "https://www.nytimes.com/2024/07/06/us/politics/biden-rejects-democratic-pessimism.html",
+      "id": 100000009557787,
+      "asset_id": 100000009557787,
+      "source": "New York Times",
+      "published_date": "2024-07-06",
+      "updated": "2024-07-06 22:56:21",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Polls and Public Opinion;Age, Chronological;Stephanopoulos, George;Biden, Joseph R Jr;ABC News;Democratic Party",
+      "column": null,
+      "byline": "By Peter Baker",
+      "type": "Article",
+      "title": "Crisis? What Crisis? Biden Rejects Democratic Pessimism.",
+      "abstract": "After last week’s devastating debate performance, the president’s prime-time interview with ABC News was an exercise in not just damage control but reality control.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Polls and Public Opinion",
+        "Age, Chronological"
+      ],
+      "org_facet": ["ABC News", "Democratic Party"],
+      "per_facet": ["Stephanopoulos, George", "Biden, Joseph R Jr"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The president’s self-confidence leaves him increasingly isolated in his own party.",
+          "copyright": "Tom Brenner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/05/multimedia/05dc-assess-01-bpmg/05dc-assess-01-bpmg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/05/multimedia/05dc-assess-01-bpmg/05dc-assess-01-bpmg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/05/multimedia/05dc-assess-01-bpmg/05dc-assess-01-bpmg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8caf03f9-ad74-5bca-90a5-fa90bf38a1d0",
+      "url": "https://www.nytimes.com/2024/07/02/us/politics/biden-lapses.html",
+      "id": 100000009547547,
+      "asset_id": 100000009547547,
+      "source": "New York Times",
+      "published_date": "2024-07-02",
+      "updated": "2024-07-07 12:57:35",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Age, Chronological;Biden, Joseph R Jr;Democratic Party",
+      "column": null,
+      "byline": "By Peter Baker, David E. Sanger, Zolan Kanno-Youngs and Katie Rogers",
+      "type": "Article",
+      "title": "Biden’s Lapses Are Said to Be Increasingly Common and Worrisome",
+      "abstract": "People who have spent time with President Biden over the last few months or so said the lapses appear to have grown more frequent, more pronounced and, after Thursday’s debate, more worrisome.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Age, Chronological"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Biden, Joseph R Jr"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden boarding Air Force One in early June. In the three weeks leading up to the debate against former President Donald J. Trump, he kept up a grueling travel schedule that exhausted even much younger aides.",
+          "copyright": "Al Drago for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/03/multimedia/01dc-biden-debate-top-gptj/01dc-biden-debate-top-gptj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/03/multimedia/01dc-biden-debate-top-gptj/01dc-biden-debate-top-gptj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/03/multimedia/01dc-biden-debate-top-gptj/01dc-biden-debate-top-gptj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9abf3217-97d6-56fa-97a0-f75b890d55bb",
+      "url": "https://www.nytimes.com/2024/06/28/us/politics/joe-biden-democrats-nomination-gavin-newsom-whitmer.html",
+      "id": 100000009546044,
+      "asset_id": 100000009546044,
+      "source": "New York Times",
+      "published_date": "2024-06-28",
+      "updated": "2024-07-03 18:53:46",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Democratic National Convention;Biden, Joseph R Jr;Harris, Kamala D;Whitmer, Gretchen;Shapiro, Josh (1973- );Newsom, Gavin;Pritzker, J B;Democratic Party",
+      "column": null,
+      "byline": "By Chris Cameron and Adam Nagourney",
+      "type": "Article",
+      "title": "Who Might Replace Biden on the Top of the Ticket?",
+      "abstract": "President Biden is said to be weighing his political future after his halting debate performance. Here’s a roster of some possible backup candidates.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Democratic National Convention"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Whitmer, Gretchen",
+        "Shapiro, Josh (1973- )",
+        "Newsom, Gavin",
+        "Pritzker, J B"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Joe Biden’s debate performance left some Democrats wondering who else might be suitable for the ballot in November.",
+          "copyright": "Haiyun Jiang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/06/28/multimedia/00pol-dem-alternatives-promo/00pol-dem-alternatives-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/28/multimedia/00pol-dem-alternatives-promo/00pol-dem-alternatives-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/28/multimedia/00pol-dem-alternatives-promo/00pol-dem-alternatives-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/94385b90-ea98-5439-83f4-fded22caf7fe",
+      "url": "https://www.nytimes.com/es/interactive/2024/07/01/weather/beryl-mapa-trayectoria.html",
+      "id": 100000009546975,
+      "asset_id": 100000009546975,
+      "source": "New York Times",
+      "published_date": "2024-07-01",
+      "updated": "2024-07-07 11:42:56",
+      "section": "Weather",
+      "subsection": "",
+      "nytdsection": "weather",
+      "adx_keywords": "Hurricanes and Tropical Storms;Maps;Weather;Atlantic Ocean;Caribbean Area",
+      "column": null,
+      "byline": "Por William B. Davis, Madison Dong, Sabrina Duque, Gregory Escobar, Judson Jones, John Keefe and Bea Malsky",
+      "type": "Interactive",
+      "title": "La trayectoria de la tormenta tropical Beryl en México: mapa en vivo",
+      "abstract": "Consulta la trayectoria probable y las horas de llegada de los vientos de Beryl.",
+      "des_facet": ["Hurricanes and Tropical Storms", "Maps", "Weather"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Atlantic Ocean", "Caribbean Area"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/06/28/world/two-map-path-tracker-index/two-map-path-tracker-index-thumbStandard-v357.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/28/world/two-map-path-tracker-index/two-map-path-tracker-index-mediumThreeByTwo210-v357.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/28/world/two-map-path-tracker-index/two-map-path-tracker-index-mediumThreeByTwo440-v357.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/480f3b2c-24f3-51d3-a61d-0bc64d4f3ded",
+      "url": "https://www.nytimes.com/2024/06/30/world/europe/france-elections.html",
+      "id": 100000009547917,
+      "asset_id": 100000009547917,
+      "source": "New York Times",
+      "published_date": "2024-06-30",
+      "updated": "2024-07-01 12:07:01",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Elections;Right-Wing Extremism and Alt-Right;Politics and Government;Macron, Emmanuel (1977- );Le Pen, Marine;Bardella, Jordan (1995- );National Rally (France);France Unbowed (Political Party);National Front (France);France",
+      "column": null,
+      "byline": "By Roger Cohen",
+      "type": "Article",
+      "title": "French Far Right Wins Big in First Round of Voting",
+      "abstract": "A surprise decision by President Emmanuel Macron to hold a snap election appears to have backfired badly, giving the National Rally a decisive victory.",
+      "des_facet": [
+        "Elections",
+        "Right-Wing Extremism and Alt-Right",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "National Rally (France)",
+        "France Unbowed (Political Party)",
+        "National Front (France)"
+      ],
+      "per_facet": [
+        "Macron, Emmanuel (1977- )",
+        "Le Pen, Marine",
+        "Bardella, Jordan (1995- )"
+      ],
+      "geo_facet": ["France"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marine Le Pen, a leader of the National Rally, giving a speech Sunday evening in Hénin-Beaumont, France.",
+          "copyright": "Francois Lo Presti/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/30france-election-bqpv/30france-election-bqpv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/30france-election-bqpv/30france-election-bqpv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/06/30/multimedia/30france-election-bqpv/30france-election-bqpv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/837c7402-6489-57b1-9b18-9c1397d04294",
+      "url": "https://www.nytimes.com/2024/07/02/nyregion/trump-sentencing-hush-money-trial.html",
+      "id": 100000009551299,
+      "asset_id": 100000009551299,
+      "source": "New York Times",
+      "published_date": "2024-07-02",
+      "updated": "2024-07-03 14:28:20",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "New York State Criminal Case Against Trump (71543-23);Decisions and Verdicts;Immunity from Prosecution;Federal Criminal Case Against Trump (2020 Election Case);Merchan, Juan M;Trump, Donald J;Supreme Court (US)",
+      "column": null,
+      "byline": "By Ben Protess, William K. Rashbaum, Kate Christobek and Wesley Parnell",
+      "type": "Article",
+      "title": "Judge Delays Trump’s Sentencing Until Sept. 18 After Immunity Claim",
+      "abstract": "Donald J. Trump’s lawyers want to argue that a Supreme Court decision giving presidents immunity for official acts should void his felony conviction for covering up hush money paid to a porn star.",
+      "des_facet": [
+        "New York State Criminal Case Against Trump (71543-23)",
+        "Decisions and Verdicts",
+        "Immunity from Prosecution",
+        "Federal Criminal Case Against Trump (2020 Election Case)"
+      ],
+      "org_facet": ["Supreme Court (US)"],
+      "per_facet": ["Merchan, Juan M", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald J. Trump faces probation or prison time after being convicted of 34 felony counts of falsifying business records. ",
+          "copyright": "Dave Sanders for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/02/multimedia/02trump-sentencing1-hjqc/02trump-sentencing1-hjqc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/02/multimedia/02trump-sentencing1-hjqc/02trump-sentencing1-hjqc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/02/multimedia/02trump-sentencing1-hjqc/02trump-sentencing1-hjqc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

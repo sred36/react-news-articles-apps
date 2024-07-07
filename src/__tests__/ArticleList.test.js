@@ -61,6 +61,4 @@ describe("ArticleList Component", () => {
       expect(screen.getByText("1")).toBeInTheDocument();
     });
   });
-
-  // Add more test cases as needed
 });

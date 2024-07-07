@@ -13,7 +13,6 @@ function ArticleContainer() {
     "https://api.nytimes.com/svc/mostpopular/v2/viewed/7.json?api-key=wEw070jGMNNUkqc2T9pwLEN3E7oIIiAQ"
   );
 
-  console.log(data);
   const [currentPage, setCurrentPage] = useState(() => {
     const page = searchParams.get("page");
     return page ? parseInt(page, 10) : 1;
