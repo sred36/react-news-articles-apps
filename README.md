@@ -3,6 +3,7 @@
 This project is a simple React application that fetches articles and displays data from an external API. It showcases basic React concepts such as components, srouting, and API integration.
 
 # Features
+
     Fetches data from an external API (placeholder data used in this sample).
     Displays a list of items retrieved from the API.
     Allows navigation between different pages using React Router.
@@ -10,15 +11,18 @@ This project is a simple React application that fetches articles and displays da
     pagination
 
 # Getting Started
-  Follow these instructions to get the project up and running on your local machine.
+
+Follow these instructions to get the project up and running on your local machine.
 
 # Prerequisites
+
     Make sure you have the following installed:
 
     Node.js (version >= 12.0.0)
     npm (version >= 6.0.0)
-    
+
 # Installation
+
     Clone the repository(https://git@github.com:sred36/react-news-articles-apps.git) and install dependencies:
 
     cd react-news-articles-apps
@@ -32,6 +36,7 @@ npm install
 yarn install
 
 # Running the App
+
 Start the development server:
 
 # Using npm
@@ -44,11 +49,11 @@ yarn start
 
 # Test
 
-npm test
+npm test a
 
 # test coverage
 
-npm test -- --coverage
+npm test a -- --coverage
 
 ![image](https://github.com/sred36/react-news-articles-apps/assets/35680138/737b0292-2658-453a-a549-5628198ec4c7)
 
@@ -56,9 +61,13 @@ npm test -- --coverage
 
 react-news-articles-apps/coverage/lcov-report/index.html
 
-# Run cypress 
+# Run cypress
 
 npm run cy:open
+
+1.  select component tetsing
+2.  select chrome browser
+3.  check test files
 
 # build the applicatio
 
@@ -69,7 +78,6 @@ npm run build
 The project structure is organized as follows:
 
 ![image](https://github.com/sred36/react-news-articles-apps/assets/35680138/7d59e27d-ff25-4bf1-bf81-e724a731f085)
-
 
 # Dependencies
 
