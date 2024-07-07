@@ -23,8 +23,8 @@ Follow these instructions to get the project up and running on your local machin
 
 # Installation
 
-    Clone the repository(https://git@github.com:sred36/react-news-articles-apps.git) and install dependencies:
-
+    Clone the repository and install dependencies:
+    git clone https://github.com/sred36/react-news-articles-apps.git
     cd react-news-articles-apps
 
 # Install dependencies using npm
