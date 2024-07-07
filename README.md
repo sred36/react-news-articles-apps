@@ -62,34 +62,8 @@ npm run build
 
 The project structure is organized as follows:
 
-ny-times/
-├── public/
-│ ├── index.html
-│ └── ...
-|
-├── **test**/
-│ ├── ArticleContainer.test.js
-│ └── ArticleDetails.test.js
-│ └── ...
-|
-├── src/
-│ ├── components/
-│ │ ├── ArticleContainer.js
-│ │ ├── ArticleDetails.js
-│ │ └── ...
-│
-│ ├── pages/
-│ │ ├── Error.js
-│ ├── hooks/
-│ │ └── useFetch.js
-│ ├── context/
-│ │ └── ArticleContext.js
-| │
-│ ├── App.js
-│ └── index.js
-├── .gitignore
-├── package.json
-└── README.md
+![image](https://github.com/sred36/react-news-articles-apps/assets/35680138/7d59e27d-ff25-4bf1-bf81-e724a731f085)
+
 
 # Dependencies
 
