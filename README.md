@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple React application that fetches articles and displays data from an external API. It showcases basic React concepts such as components, srouting, and API integration.
 
-## Available Scripts
+Features
+Fetches data from an external API (placeholder data used in this sample).
+Displays a list of items retrieved from the API.
+Allows navigation between different pages using React Router.
+Search functionality
+pagination
 
-In the project directory, you can run:
+Getting Started
+Follow these instructions to get the project up and running on your local machine.
 
-### `npm start`
+Prerequisites
+Make sure you have the following installed:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Node.js (version >= 12.0.0)
+npm (version >= 6.0.0)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Installation
+Clone the repository and install dependencies:
 
-### `npm test`
+cd sample-react-app
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Install dependencies using npm
 
-### `npm run build`
+npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Or install dependencies using Yarn
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+yarn install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Running the App
+Start the development server:
 
-### `npm run eject`
+# Using npm
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+npm start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Using Yarn
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+yarn start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Test
 
-## Learn More
+npm test
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# test coverage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+npm test -- --coverage
 
-### Code Splitting
+# test coverage Report path:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ny-times/coverage/lcov-report/index.html
 
-### Analyzing the Bundle Size
+# build the applicatio
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+npm run build
 
-### Making a Progressive Web App
+# Folder Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The project structure is organized as follows:
 
-### Advanced Configuration
+ny-times/
+├── public/
+│ ├── index.html
+│ └── ...
+|
+├── **test**/
+│ ├── ArticleContainer.test.js
+│ └── ArticleDetails.test.js
+│ └── ...
+|
+├── src/
+│ ├── components/
+│ │ ├── ArticleContainer.js
+│ │ ├── ArticleDetails.js
+│ │ └── ...
+│
+│ ├── pages/
+│ │ ├── Error.js
+│ ├── hooks/
+│ │ └── useFetch.js
+│ ├── context/
+│ │ └── ArticleContext.js
+| │
+│ ├── App.js
+│ └── index.js
+├── .gitignore
+├── package.json
+└── README.md
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Dependencies
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.24.1",
+    "react-scripts": "5.0.1",
+    "styled-components": "^6.1.11",
+    "uuid": "^10.0.0",
+    "web-vitals": "^2.1.4"

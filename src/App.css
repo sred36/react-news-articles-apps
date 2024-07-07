@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+* {
+  box-sizing: border-box;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -34,5 +36,86 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+.article-container {
+  max-width: 980px;
+  padding: 50px 20px;
+  width: 100%;
+}
+
+.article-item {
+  width: 100%;
+  display: flex;
+  padding-bottom: 20px;
+  vertical-align: top;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid white;
+  cursor: pointer;
+}
+
+.article-item-left {
+  width: 80%;
+}
+
+.article-item p {
+  font-size: 18px;
+}
+
+.article-back-btn {
+  padding: 10px;
+  width: 200px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.article-details {
+  width: 80%;
+  margin: 30px auto;
+}
+.article-details .article-item-left {
+  width: 100%;
+}
+
+.pagination {
+  width: 100%;
+  max-width: 1000px;
+  margin-top: 30px;
+}
+
+.pagination-btn {
+  padding: 10px 20px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.search-container {
+  max-width: 980px;
+  padding: 50px 20px 0 50px;
+  width: 100%;
+  display: flex;
+  justify-content: left;
+}
+
+.search-container input {
+  padding: 10px;
+  width: 100%;
+}
+
+@media only screen and (max-width: 767px) {
+  .search-container {
+    padding: 20px;
+  }
+  .article-container {
+    padding: 10px 20px 20px 10px;
+  }
+  .article-item-left {
+    width: 100%;
+  }
+  .article-item {
+    display: inline-block;
   }
 }
